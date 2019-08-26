@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hi this is the chagne ");
             //added comment from git
-
+            // added this line from git
             //now changes from code
         }
     }
